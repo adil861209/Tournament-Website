@@ -29,19 +29,7 @@ React	Frontend UI Library
 Vite	Fast Development & Build Tool
 CSS / Custom Styling	UI & Animations
 GitHub	Version Control
-📂 Project Structure
-esports-arena/
-│
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── App.jsx
-│
-├── index.html
-├── package.json
-└── vite.config.js
+
 🚀 Getting Started
 1️⃣ Clone the repository
 git clone https://github.com/adil861209/REPOSITORY-NAME.git
