@@ -5,9 +5,6 @@
 🚀 Website is live at:
 👉 http://tournamentwebsite.kesug.com
 
-🖥️ Preview
-<p align="center"> <img src="Screenshot 2026-02-20 060029" src="https://github.com/user-attachments/assets/e3276b81-95aa-49a7-adfb-9a76ddfc731b" width="100%" alt="Esports Arena Preview"/> </p>
-
 ✨ Features
 
 🎮 Futuristic Esports UI
