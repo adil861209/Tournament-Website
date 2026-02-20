@@ -6,11 +6,7 @@
 👉 http://tournamentwebsite.kesug.com
 
 🖥️ Preview
-
-<p align="center"> <img src="<img width="1400" height="912" alt="Screenshot 2026-02-20 060029" src="https://github.com/user-attachments/assets/455a1de5-6053-4ea4-8939-7f2ae7f47cb9" />
-" width="100%" alt="Esports Arena Preview"/> </p>
-
-(Replace preview.png with your actual screenshot filename if different.)
+<p align="center"> <img src="Screenshot 2026-02-20 060029" src="https://github.com/user-attachments/assets/e3276b81-95aa-49a7-adfb-9a76ddfc731b" width="100%" alt="Esports Arena Preview"/> </p>
 
 ✨ Features
 
